@@ -2,7 +2,7 @@
 	"Vue Single File Component": {
 		"prefix": "vbase",
 		"body": [
-			"<template lang="pug">",
+			"<template lang=\"pug\">",
 			"</template>",
 			"",
 			"<script>",
@@ -11,7 +11,7 @@
 			"}",
 			"</script>",
 			"",
-			"<style lang="sass" scoped>",
+			"<style lang=\"sass\" scoped>",
 			"",
 			"</style>"
 		],
